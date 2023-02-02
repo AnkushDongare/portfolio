@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer className="footer" id="footer">
             <div>
-                <h5>This Website is Designed and Developed by <Link to="/">Ankush Dongre</Link></h5>
+                <p>This Website is Designed and Developed by <Link to="/">Ankush Dongre</Link></p>
             </div>
             <div>
                 <div className="footer-info">
